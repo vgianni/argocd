@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/vgianni/argocd.git
     targetRevision: HEAD
-    path: ./declarative/manifests/geocentric-model
+    path: ./declerative/manifests/geocentric-model
    
   destination:
     server: https://kubernetes.default.svc
